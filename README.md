@@ -1,2 +1,2 @@
 # Python_CeV
- Exercícios Python do Curso em vídeo
+ Repositório com a resolução de exercícios do curso de **Python 3** do **Gustavo Guanabara** disponível no [Curso Em Vídeo](cursoemvideo.com).
